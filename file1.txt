@@ -1,0 +1,1 @@
+to push this file to GitHub first u have to make it a git repository
